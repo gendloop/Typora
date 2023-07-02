@@ -1,6 +1,6 @@
-# RepoName
+# Typora
 
 ## Install
 
-`scoop install gendloopBucket/RepoName` 
+`scoop install gendloopBucket/Typora` 
 
